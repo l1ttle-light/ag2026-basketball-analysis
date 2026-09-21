@@ -1,0 +1,20 @@
+﻿game_key,game_no,date,stage,phase,home_org,home_team,away_org,away_team,home_score,away_score,official_summary,data_issue,event_count
+M.TEAM5-------------.GPB-.000100--,1,2026-09-10,小组赛,Men Group Phase - Group B,IRI,伊朗,QAT,Qatar,53,59,53-59,,399
+M.TEAM5-------------.GPA-.000100--,3,2026-09-10,小组赛,Men Group Phase - Group A,KOR,韩国,KSA,Saudi Arabia,82,66,82-66,,452
+M.TEAM5-------------.GPA-.000200--,4,2026-09-10,小组赛,Men Group Phase - Group A,JPN,日本,INA,Indonesia,98,53,98-53,,419
+M.TEAM5-------------.GPC-.000100--,5,2026-09-11,小组赛,Men Group Phase - Group C,CHN,中国,KAZ,Kazakhstan,99,61,99-61,,397
+M.TEAM5-------------.GPA-.000300--,7,2026-09-11,小组赛,Men Group Phase - Group A,INA,Indonesia,KOR,韩国,48,102,48-102,,411
+M.TEAM5-------------.GPA-.000400--,8,2026-09-11,小组赛,Men Group Phase - Group A,KSA,Saudi Arabia,JPN,日本,80,86,80-86,,445
+M.TEAM5-------------.GPB-.000300--,9,2026-09-12,小组赛,Men Group Phase - Group B,TPE,Chinese Taipei,IRI,伊朗,69,72,69-72,,408
+M.TEAM5-------------.GPC-.000300--,11,2026-09-12,小组赛,Men Group Phase - Group C,BRN,Bahrain,CHN,中国,59,105,59-105,,387
+M.TEAM5-------------.GPB-.000500--,13,2026-09-13,小组赛,Men Group Phase - Group B,IRI,伊朗,JOR,Jordan,81,68,81-68,,416
+M.TEAM5-------------.GPA-.000600--,16,2026-09-13,小组赛,Men Group Phase - Group A,JPN,日本,KOR,韩国,83,100,83-100,,452
+M.TEAM5-------------.GPC-.000600--,18,2026-09-14,小组赛,Men Group Phase - Group C,CHN,中国,PHI,Philippines,105,61,105-61,,455
+M.TEAM5-------------.QFNL.000200--,19,2026-09-16,四分之一决赛,Men Quarterfinals,CHN,中国,KSA,Saudi Arabia,87,78,87-78,,426
+M.TEAM5-------------.QFNL.000100--,20,2026-09-16,四分之一决赛,Men Quarterfinals,TPE,Chinese Taipei,JPN,日本,78,85,78-85,,425
+M.TEAM5-------------.QFNL.000400--,21,2026-09-16,四分之一决赛,Men Quarterfinals,IRI,伊朗,BRN,Bahrain,79,74,79-74,,419
+M.TEAM5-------------.QFNL.000300--,22,2026-09-16,四分之一决赛,Men Quarterfinals,JOR,Jordan,KOR,韩国,80,114,80-114,,435
+M.TEAM5-------------.SFNL.000100--,23,2026-09-18,半决赛,Men Semifinals,JPN,日本,CHN,中国,97,77,97-78,顶层比分字段为97-78，球队分项/逐事件为97-77,402
+M.TEAM5-------------.SFNL.000200--,24,2026-09-18,半决赛,Men Semifinals,KOR,韩国,IRI,伊朗,77,51,77-51,,422
+M.TEAM5-------------.FNL-.000200--,25,2026-09-20,三四名决赛,Men Finals,CHN,中国,IRI,伊朗,70,79,70-79,,430
+M.TEAM5-------------.FNL-.000100--,26,2026-09-20,决赛,Men Finals,JPN,日本,KOR,韩国,57,67,57-67,,425
